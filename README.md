@@ -1,5 +1,5 @@
 # ExtHang3r
-## THIS IS NOT MINE! IT IS MADE BY BLOBBY BOI https://github.com/Blobby-Boi
+## THIS IS NOT MADE BY CARBONICAL! IT IS MADE BY BLOBBY BOI https://github.com/Blobby-Boi
 ## What is it?
 ExtHang3r is an exploit created by <a href="https://github.com/Blobby-Boi/">Blobby Boi</a> that allows ChromeOS users to kill managed extensions after the LTMEAT patch. It remains unpatched in all new ChromeOS versions as of February 2025.
 
